@@ -12,6 +12,12 @@ permalink: /
 
 # 紹介
 ヨルシカ
+![image](/GHPages_WebSite/assets/images/ogimg.png)
+
+# 最新アルバム
+二人称
+![image](/GHPages_WebSite/assets/images/logo-150.png)
+
 
 
 
