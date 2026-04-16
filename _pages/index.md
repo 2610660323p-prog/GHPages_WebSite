@@ -8,11 +8,11 @@ permalink: /
 
 ## 中学での部活
 水泳
-![image](/GHPages_WebSite/assets/images/ogimg.png)
+![image](/GHPages_WebSite/assets/images/(Upload-from-mobile-1776233236)_20220808_215111.jpeg)
 
 ## 高校での部活
 弓道
-![image](/GHPages_WebSite/assets/images/ogimg.png)
+![image](/GHPages_WebSite/assets/images/24575182_s.jpg)
 
 
 
