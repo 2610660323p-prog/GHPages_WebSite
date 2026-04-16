@@ -4,17 +4,23 @@ author: default
 permalink: /
 ---
 # 自己紹介
-イケダ  近畿大学
+イケダ  
 
-## 学部
-文芸学部
+## 中学での部活
+水泳
 
 
-# 紹介
+## 高校での部活
+弓道
+![image](/GHPages_WebSite/assets/images/ogimg.png)
+
+
+
+# おすすめ
 ヨルシカ
 ![image](/GHPages_WebSite/assets/images/ogimg.png)
 
-# 最新アルバム
+## 最新アルバム
 二人称
 ![image](/GHPages_WebSite/assets/images/SecondPerson_JKT.jpg)
 
