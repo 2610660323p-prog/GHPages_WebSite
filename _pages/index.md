@@ -8,7 +8,7 @@ permalink: /
 
 ## 中学での部活
 水泳
-
+![image](/GHPages_WebSite/assets/images/ogimg.png)
 
 ## 高校での部活
 弓道
